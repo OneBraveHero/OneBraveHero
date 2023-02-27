@@ -7,7 +7,7 @@ I let my work as a chemistry in a petroleum company and start to studing to beco
 </br>
 ⚡Fun Facts: 
 </br>
-"Im a total Geek 👾! Love to play D&D ⚔️ and see Anime" 
+"Im a total Geek 👾! Love to play D&D ⚔️ and see Anime 🥷" 
 
 ## Skills:
 ![HTML5](https://img.shields.io/badge/<LABEL>-HTML5-<COLOR>?label=&color=DC3535&logo=HTML5&labelColor=191825)</br>
