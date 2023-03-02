@@ -1,13 +1,11 @@
-### Hi there 👋 , I'm Anthony Díaz!
-
 I am looking for a job as a junior web developer </br>
 🌱 I’m currently learning ![React](https://img.shields.io/badge/<LABEL>-React-<COLOR>?label=&color=D8D9CF&logo=React&labelColor=191825) !!</br>
 
-I let my work as a chemistry in a petroleum company and start to studing to become a profesional web developer. Right now i looking for jobs and chance of collaborate in exiting new projects 🔭!
+I currently work as a chemist in a petroleum company. On my time off work I am studying to become a professional web developer. Right now I am seeking for oppourtunities to collaborate and work on exiting new projects 🔭!
 </br>
 ⚡Fun Facts: 
 </br>
-"Im a total Geek 👾! Love to play D&D ⚔️ and see Anime 🥷" 
+"Im a total Geek 👾! Love to play D&D ⚔️ and see Anime 🥷"
 
 ## Skills:
 ![HTML5](https://img.shields.io/badge/<LABEL>-HTML5-<COLOR>?label=&color=DC3535&logo=HTML5&labelColor=191825)</br>
