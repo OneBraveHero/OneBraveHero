@@ -3,7 +3,7 @@
 I am looking for a job as a junior web developer </br>
 🌱 I’m currently learning ![React](https://img.shields.io/badge/<LABEL>-React-<COLOR>?label=&color=D8D9CF&logo=React&labelColor=191825) !!</br>
 
-I currently work as a chemist in a petroleum company. On my time off work I am studying to become a professional web developer. Right now I am seeking for oppourtunities to collaborate and work on exiting new projects 🔭!
+I used to work as a chemist in a petroleum company. On my time off work I am studying to become a professional web developer. Right now I am seeking for oppourtunities to collaborate and work on exiting new projects 🔭!
 </br>
 ⚡Fun Facts: 
 </br>
