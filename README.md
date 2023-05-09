@@ -1,6 +1,7 @@
 ### Hi there 👋 , I'm Anthony Díaz!
 <hr>
-<a href="https://app.daily.dev/One_Brave_hero"><img src="https://api.daily.dev/devcards/c1de6e1cee014ea9a525811c83ce3dde.png?r=9tm" width="250" left="250px" alt="Anthony Diaz's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/One_Brave_hero"><img src="https://api.daily.dev/devcards/c1de6e1cee014ea9a525811c83ce3dde.png?r=9tm" width="250" left="250px" alt="Anthony Diaz's Dev Card"/></a> -->
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 <hr>
 
 I am looking for a job as a junior web developer </br>
