@@ -24,7 +24,7 @@ I’m on the lookout for thrilling opportunities to collaborate with fellow deve
 
 
 ## 🌐 Socials:
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/tdmedinaw) &nbsp;
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/tonydimedina) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/anthony-diaz-597356267/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:tdmedinaw@gmail.com?subject=Hello%20Tony,%20From%20Github)
 
