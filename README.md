@@ -7,7 +7,7 @@ As a passionate web developer, I thrive on crafting seamless user experiences an
 
 🔭 Seeking Collaborative Adventures
 
-I’m on the lookout for thrilling opportunities to collaborate with fellow developers, designers, and dreamers. Let’s build something extraordinary together! 🌈
+I’m on the lookout for thrilling opportunities to collaborate with fellow developers, designers, and dreamers. Let’s build something extraordinary together! 
 
 ⚡ Fun Facts
 </br>
